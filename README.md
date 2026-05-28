@@ -1,5 +1,4 @@
-# paysim-fraud-feature-store
-A production-grade, reusable feature store infrastructure for PaySim fraud detection using Feast, Apache Parquet, and Redis.
+
 # PaySim Fraud Detection - Reusable Feature Store using Feast
 
 This project implements a production-grade, reusable feature store infrastructure for training and serving machine learning models using **Feast**, **Apache Parquet**, and **Redis**. 
